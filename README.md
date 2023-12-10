@@ -2,7 +2,6 @@
 I am a person who loves technology and likes to learn new things every day. I consider myself a hard-working person who likes to work as a team and help my colleagues whenever they need it. I love the Cloud and the whole automation world. In my free time I also love 3D printing and watching geek movies and series.
 
 - 👨‍💻 I’m currently working on **Banco Santander** as **CaaS Openshift Automation Specialist** 
-- ✍️ I’m currently learning **CKA**, **CKAD** 
 - 📫 How to reach me: ironwolphern@outlook.com
 
 
