@@ -5,7 +5,8 @@ I am a person who loves technology and likes to learn new things every day. I co
 - 📫 How to reach me: ironwolphern@outlook.com
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/HzmuNfZWfV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironwolphern) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hernández-san-felipe-b3338686) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ironwolphern) ![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/HzmuNfZWfV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironwolphern) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hernández-san-felipe-b3338686) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ironwolphern) ![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40wolphern)
+
 
 ## 💻 Tech Stack
 
