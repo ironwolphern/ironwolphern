@@ -4,10 +4,8 @@ I am a person who loves technology and likes to learn new things every day. I co
 - 👨‍💻 I’m currently working on **Banco Santander (Santander Dgital Services)** as **CaaS Openshift Automation Specialist Engineer** 
 - 📫 How to reach me: ironwolphern@outlook.com
 
-
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/HzmuNfZWfV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironwolphern) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hernández-san-felipe-b3338686) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ironwolphern) ![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)
-
 
 ## 💻 Tech Stack
 
@@ -15,18 +13,21 @@ I am a person who loves technology and likes to learn new things every day. I co
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
+#### Virtualization
+
+![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000?style=flat&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-%23607078?style=flat&logo=vmware&logoColor=white) ![Citrix](https://img.shields.io/badge/Citrix-%23452170?style=flat&logo=citrix&logoColor=white)
+
 #### Containers and Kubernetes
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Openshift](https://img.shields.io/badge/Openshift-red?style=flat&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Openshift](https://img.shields.io/badge/Openshift-red?style=flat&logo=redhatopenshift&logoColor=white) ![Nomad](https://img.shields.io/badge/Nomad-%2300CA8E?style=flat&logo=nomad&logoColor=white)
 
+#### Automation and Devsecops
 
-#### Automation and Devops
-
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Packer](https://img.shields.io/badge/Packer-lightblue?style=flat&logo=packer&logoColor=white) ![Vault](https://img.shields.io/badge/Vault-yellow?style=flat&logo=vault&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Packer](https://img.shields.io/badge/Packer-lightblue?style=flat&logo=packer&logoColor=white) ![Vault](https://img.shields.io/badge/Vault-yellow?style=flat&logo=vault&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Consul](https://img.shields.io/badge/Consul-%23F24C53?style=flat&logo=consul&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitLab Runner](https://img.shields.io/badge/GitLab%20Runner-%23FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232088FF?style=flat&logo=githubactions&logoColor=white) 
 
 #### Programming
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 
 #### Databases
 
@@ -38,8 +39,7 @@ I am a person who loves technology and likes to learn new things every day. I co
 
 #### Monitoring
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
-
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white)
 
 #### Security
 
@@ -47,7 +47,7 @@ I am a person who loves technology and likes to learn new things every day. I co
 
 #### Design
 
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-%23FF61F6?style=flat&logo=adobedreamweaver&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 #### IoT
 
