@@ -1,12 +1,19 @@
 # 💫 About Me :
-I am a person who loves technology and likes to learn new things every day. I consider myself a hard-working person who likes to work as a team and help my colleagues whenever they need it. I love the Cloud and the whole automation world. In my free time I also love 3D printing and watching geek movies and series.
+
+I'm Fernando Hdez, a seasoned DevOps engineer who thrives on seamlessly integrating development and operations. With a strong background in automating processes and optimizing workflows, I excel in fostering collaboration across teams to achieve efficient and scalable solutions.
+
+Beyond the tech realm, I channel my creativity into 3D printing, exploring the intricacies of this innovative field. Whether crafting functional prototypes or experimenting with design concepts, I find joy at the intersection of technology and craftsmanship.
+
+Away from the keyboard, you'll find me pushing boundaries in the gym, embracing the discipline of physical fitness to balance the demands of the digital landscape. As an avid reader, I dedicate time to staying abreast of cutting-edge technologies, constantly seeking opportunities to enhance my skills and stay ahead of industry trends.
+
+In essence, I embody the DevOps ethos not only professionally but also through a diverse range of interests, reflecting a holistic approach to continuous improvement in both technology and personal pursuits.
 
 - 👨‍💻 I’m currently working on **Banco Santander (Santander Dgital Services)** as **CaaS Openshift Automation Specialist Engineer** 
 - 📫 How to reach me: ironwolphern@outlook.com
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/HzmuNfZWfV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironwolphern) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hernández-san-felipe-b3338686) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ironwolphern) ![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40wolphern)
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/HzmuNfZWfV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ironwolphern) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-hernández-san-felipe-b3338686) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ironwolphern) [![Medium](https://img.shields.io/badge/Medium-%23000000?style=flat&logo=medium&logoColor=white)](https://ironwolphern.medium.com/) [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ironwolphern)
 
 ## 💻 Tech Stack
 
@@ -56,6 +63,7 @@ I am a person who loves technology and likes to learn new things every day. I co
       
 
 ### 📊 GitHub Stats :
+
 ![](https://github-readme-stats.vercel.app/api?username=ironwolphern&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolphern&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
