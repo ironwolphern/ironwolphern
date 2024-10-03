@@ -8,7 +8,6 @@ Away from the keyboard, you'll find me pushing boundaries in the gym, embracing 
 
 In essence, I embody the DevOps ethos not only professionally but also through a diverse range of interests, reflecting a holistic approach to continuous improvement in both technology and personal pursuits.
 
-- 👨‍💻 I’m currently working on **Banco Santander (Santander Dgital Services)** as **CaaS Openshift Automation Specialist Engineer** 
 - 📫 How to reach me: ironwolphern@outlook.com
 
 ## 🌐 Socials
